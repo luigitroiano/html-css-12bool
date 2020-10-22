@@ -4,7 +4,8 @@
   text-align: center;
 }
 .debug_v2 [class*="col_"]{
-  background-color: red;
+  height: 190px;
+  background-color: #ff000063;
   border: 1px solid white;
 }
 .row{
