@@ -1,0 +1,24 @@
+.container{
+  width: 80%;
+  line-height: 200px;
+  text-align: center;
+}
+.debug_v2 [class*="col_"]{
+  background-color: red;
+  border: 1px solid white;
+}
+.row{
+  width: 100%;
+}
+.row .col_2{
+  line-height: 1em;
+  position: relative;
+}
+span{
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.pd_5{
+  padding: 5px;
+}
